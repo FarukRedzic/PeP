@@ -1,0 +1,316 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.MojProfil"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="20,0,0,0">
+            <TextBlock Name="Username"  Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+            <TextBlock Name="Mail" Foreground="Gray" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+        </StackPanel>
+        <Pivot Name="Pivot" Grid.Row="1">
+            <PivotItem Name="piProfil" Header="Lični profil">
+                <ScrollViewer>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition  Height="Auto"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Orientation="Horizontal">
+                            <Border BorderThickness="1" Width="120" Height="120" HorizontalAlignment="Left" >
+                                <Image Name="pbSlika" Height="120" Width="120" HorizontalAlignment="Left" Stretch="Fill" ></Image>
+                            </Border>
+                            <StackPanel Grid.Column="0" Margin="10,0,0,0">
+                                <Button  HorizontalAlignment="Stretch" MinWidth="60" Content="Uredi profil" MinHeight="55" Name="btnIzmjenaProfila" Click="btnIzmjenaProfila_Click">
+                                </Button>
+                                <Button  MinWidth="60" HorizontalAlignment="Stretch" Content="Promjena lozinke" MinHeight="55" Name="btnIzmjenaLozinke" Click="btnIzmjenaLozinke_Click">
+                                </Button>
+                            </StackPanel>
+                        </StackPanel>
+                        <Button  MinWidth="60" HorizontalAlignment="Right" Content="Pošalji poruku" MinHeight="55" Name="btnPosaljiPoruku" Click="btnPosaljiPoruku_Click">
+                        </Button>
+                        <StackPanel Grid.Row="1">
+                            <TextBlock Margin="0,10,0,0" Name="tbIme"  TextWrapping="Wrap" Text="Ime: " FontSize="22" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+                            <TextBlock Margin="0,10,0,0" Name="tbPrezime"  TextWrapping="Wrap" Text="Prezime: " FontSize="22" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+                            <TextBlock Margin="0,10,0,0" Name="tbEmail"  TextWrapping="Wrap" Text="Email: " FontSize="22" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+                            <TextBlock Margin="0,10,0,0" Name="tbTelefon"  TextWrapping="Wrap" Text="Telefon: " FontSize="22" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+                            <TextBlock Margin="0,10,0,0" Name="tbOpstina"  TextWrapping="Wrap" Text="Općina: " FontSize="22" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+                            <TextBlock Margin="0,10,0,0" Name="tbAdresa"  TextWrapping="Wrap" Text="Adresa: " FontSize="22" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Margin="0,10,0,10" Name="tbTrgovina"  TextWrapping="Wrap" Text="Trgovina: " FontSize="22" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+                                <CheckBox IsEnabled="False" Margin="10,0,0,0"  Name="chkTrgovina"></CheckBox>
+                            </StackPanel>
+                        </StackPanel>
+
+                    </Grid>
+                </ScrollViewer>
+            </PivotItem>
+            <PivotItem Name="piAktivni" Header="Aktivni">
+                <Grid>
+                    <Grid.Resources>
+                        <local:ImageConverter x:Key="ImageConverter"/>
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <ComboBox  Grid.Row="0" Name="cbxVrstaAktivni" PlaceholderText="Odaberite vrstu proizvoda" SelectionChanged="cbxVrstaAktivni_SelectionChanged"></ComboBox>
+                    <ScrollViewer Grid.Row="1">
+                            <ListView Name="lvAktivni" IsItemClickEnabled="True" ItemClick="lvAktivni_ItemClick">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Border BorderThickness="1">
+                                                <Image Margin="5" Source="{Binding Converter={StaticResource ImageConverter}}" Stretch="Fill" Name="pbAktivni" Height="110" Width="130" Grid.Column="0"></Image>
+                                            </Border>
+                                            <StackPanel Grid.Column="1" Margin="5,15,0,0">
+                                                <TextBlock Text="{Binding Naziv}"  Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                                <StackPanel Orientation="Horizontal">
+                                                    <TextBlock Text="Cijena: " Margin="0,0,5,0" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                <TextBlock Text="{Binding Cijena}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                </StackPanel>
+                                                    <TextBlock Text="{Binding Kategorija}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                    </ScrollViewer>
+                </Grid>
+            </PivotItem>
+            <PivotItem Name="piNeaktivni" Header="Neaktivni">
+                <Grid>
+                    <Grid.Resources>
+                        <local:ImageConverter x:Key="ImageConverter"/>
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <ComboBox  Grid.Row="0" Name="cbxVrstaNeaktivni" PlaceholderText="Odaberite vrstu proizvoda" SelectionChanged="cbxVrstaNeaktivni_SelectionChanged"></ComboBox>
+                    <ScrollViewer Grid.Row="1">
+                        <ListView Name="lvNeaktivni" IsItemClickEnabled="True" Holding="lvNeaktivni_Holding" ItemClick="lvNeaktivni_ItemClick">
+                            <ListView.ItemTemplate>
+                                <DataTemplate>
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="Auto"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <Border BorderThickness="1">
+                                            <Image Margin="5" Source="{Binding Converter={StaticResource ImageConverter}}" Stretch="Fill" Name="pbAktivni" Height="110" Width="130" Grid.Column="0"></Image>
+                                        </Border>
+                                        <StackPanel Grid.Column="1" Margin="5,15,0,0">
+                                            <TextBlock Text="{Binding Naziv}"  Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                            <StackPanel Orientation="Horizontal">
+                                                <TextBlock Text="Cijena: " Margin="0,0,5,0" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                <TextBlock Text="{Binding Cijena}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                            </StackPanel>
+                                            <TextBlock Text="{Binding Kategorija}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                        </StackPanel>
+                                    </Grid>
+                                </DataTemplate>
+                            </ListView.ItemTemplate>
+                        </ListView>
+                    </ScrollViewer>
+                </Grid>
+            </PivotItem>
+            <PivotItem Name="piProdani" Header="Prodao">
+                <Grid>
+                    <Grid.Resources>
+                        <local:ImageConverter x:Key="ImageConverter"/>
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <ComboBox Grid.Row="0" Name="cbxVrstaProdani" PlaceholderText="Odaberite vrstu proizvoda" SelectionChanged="cbxVrstaProdani_SelectionChanged"></ComboBox>
+                    <ScrollViewer Grid.Row="1">
+                        <StackPanel >
+                            <ListView Name="lvProdani" IsItemClickEnabled="True" ItemClick="lvProdani_ItemClick">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Border BorderThickness="1">
+                                                <Image Margin="5" Source="{Binding Converter={StaticResource ImageConverter}}" Stretch="Fill" Name="pbProdani" Height="110" Width="130" Grid.Column="0"></Image>
+                                            </Border>
+                                            <StackPanel Grid.Column="1" Margin="5,15,0,0">
+                                                <TextBlock Text="{Binding Proizvod}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                                <TextBlock Text="{Binding Kupac}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                <TextBlock Text="{Binding DatumVrijeme}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </PivotItem>
+            <PivotItem Name="piKupljeni" Header="Kupio">
+                <Grid>
+                    <Grid.Resources>
+                        <local:ImageConverter x:Key="ImageConverter"/>
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <ComboBox Grid.Row="0" Name="cbxVrstaKupljeni" PlaceholderText="Odaberite vrstu proizvoda" SelectionChanged="cbxVrstaKupljeni_SelectionChanged"></ComboBox>
+                    <ScrollViewer Grid.Row="1">
+                        <StackPanel >
+                            <ListView Name="lvKupljeni" IsItemClickEnabled="True" ItemClick="lvKupljeni_ItemClick">  
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Border BorderThickness="1">
+                                                <Image Margin="5" Source="{Binding Converter={StaticResource ImageConverter}}" Stretch="Fill" Name="pbKupljeni" Height="110" Width="130" Grid.Column="0"></Image>
+                                            </Border>
+                                            <StackPanel Grid.Column="1" Margin="5,15,0,0">
+                                                <TextBlock Text="{Binding Proizvod}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                                <StackPanel Orientation="Horizontal">
+                                                    <TextBlock Text="Cijena: " Margin="0,0,5,0" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                    <TextBlock Text="{Binding Cijena}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                </StackPanel>
+                                                <TextBlock Text="{Binding DatumVrijeme}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </PivotItem>
+            <PivotItem Name="piFavoriti" Header="Favoriti">
+                <Grid>
+                    <Grid.Resources>
+                        <local:ImageConverter x:Key="ImageConverter"/>
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <ComboBox Grid.Row="0" Name="cbxVrstaFavoriti" PlaceholderText="Odaberite vrstu proizvoda" SelectionChanged="cbxVrstaFavoriti_SelectionChanged"></ComboBox>
+                    <ScrollViewer Grid.Row="1">
+                        <StackPanel >
+                            <ListView Name="lvFavoriti" Holding="lvFavoriti_Holding" IsItemClickEnabled="True" ItemClick="lvFavoriti_ItemClick">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Border BorderThickness="1">
+                                                <Image Margin="5" Source="{Binding Converter={StaticResource ImageConverter}}" Stretch="Fill" Name="pbFavoriti" Height="110" Width="130" Grid.Column="0"></Image>
+                                            </Border>
+                                            <StackPanel Grid.Column="1" Margin="5,15,0,0">
+                                                <TextBlock Text="{Binding Naziv}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                                    <StackPanel Orientation="Horizontal">
+                                                        <TextBlock Text="Cijena: " Margin="0,0,5,0" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                        <TextBlock Text="{Binding Cijena}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                    </StackPanel>
+                                                    <TextBlock Text="{Binding Kategorija}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </PivotItem>
+            <PivotItem Name="piDojmovi" Header="Dojmovi">
+                <Grid>
+                    <Grid.Resources>
+                        <local:ImageConverter x:Key="ImageConverter"/>
+                    </Grid.Resources>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0" >
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Popularnost: " FontSize="20"></TextBlock>
+                            <TextBlock Name="tbPouzdanost" FontSize="20" Margin="5,0,0,0"></TextBlock>
+                        </StackPanel>
+                        <ComboBox Name="cbxVrstaDojmovi" PlaceholderText="Odaberite ocjenu" SelectionChanged="cbxVrstaDojmovi_SelectionChanged"></ComboBox>
+                    </StackPanel>
+                    <ScrollViewer Grid.Row="1">
+                        <StackPanel>
+                            <ListView Name="lvDojmovi" IsItemClickEnabled="True" ItemClick="lvDojmovi_ItemClick">
+                                <ListView.ItemTemplate>
+                                    <DataTemplate>
+                                        <Grid>
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="Auto"/>
+                                                <ColumnDefinition Width="*"/>
+                                            </Grid.ColumnDefinitions>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="Auto"/>
+                                                <RowDefinition MinHeight="20"/>
+                                            </Grid.RowDefinitions>
+                                            <TextBlock Grid.Row="1" Grid.ColumnSpan="2" Margin="5,5,0,0" Text="{Binding Sadrzaj}" FontSize="15" TextWrapping="Wrap"></TextBlock>
+                                            <Border BorderThickness="1">
+                                                <Image Margin="5" Source="{Binding Converter={StaticResource ImageConverter}}" Stretch="Fill" Name="pbDojmovi" Height="110" Width="130" Grid.Row="0" Grid.Column="0"></Image>
+                                            </Border>
+                                            <StackPanel  Grid.Row="0" Grid.Column="1">
+                                                <TextBlock Text="{Binding OstavioDojam}" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                                                <StackPanel Orientation="Horizontal">
+                                                    <TextBlock Text="Ocjena: " Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                    <TextBlock Text="{Binding Ocjena}" Margin="5,0,0,0" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                                </StackPanel>
+                                                <TextBlock Text="{Binding Proizvod}" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+                                            </StackPanel>
+                                        </Grid>
+                                    </DataTemplate>
+                                </ListView.ItemTemplate>
+                            </ListView>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </PivotItem>
+        </Pivot>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="False" Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Icon="Home" Name="btnHome"  ToolTipService.ToolTip="Moj Profil" Click="btnHome_Click"/>
+                <AppBarButton Icon="Add" Click="AppBarButton_Click" ToolTipService.ToolTip="Dodaj proizvod"/>
+                <AppBarButton Icon="Message" Name="btnPoruke" Click="btnPoruke_Click" ToolTipService.ToolTip="Moje poruke"/>
+                <AppBarButton Icon="Folder" Name="btnNarudzbe" Click="btnNarudzbe_Click" ToolTipService.ToolTip="Moje narudzbe"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Label="Proizvodi" Name="btnProizvodi" Click="btnProizvodi_Click" ToolTipService.ToolTip="Proizvodi"/>
+                <AppBarButton Label="Korisnici" Name="btnKorisnici" Click="btnKorisnici_Click" ToolTipService.ToolTip="Korisnici"/>
+                <AppBarButton Label="Odjava" Name="btnOdjava" Click="btnOdjava_Click" ToolTipService.ToolTip="Moje narudzbe"/>
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

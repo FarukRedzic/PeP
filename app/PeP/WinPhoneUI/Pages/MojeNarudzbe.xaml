@@ -1,0 +1,71 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.MojeNarudzbe"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"/>
+            <ColumnDefinition />
+            <ColumnDefinition Width="40"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <StackPanel Margin="20,0,0,0" Grid.Row="0" Grid.Column="1">
+            <TextBlock Name="Username" Style="{StaticResource MessageDialogContentStyle}"></TextBlock>
+            <TextBlock Name="Mail" Foreground="Gray" Style="{StaticResource BaseTextBlockStyle}"></TextBlock>
+        </StackPanel>
+        <TextBlock Text="Moje narudžbe" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="1" FontSize="30" FontFamily="Segoe UI"></TextBlock>
+        <Image Source="/Assets/orders.png" Grid.Column="1" Grid.Row="1" Width="90" HorizontalAlignment="Right" Height="80" Margin="0,10,15,0" ></Image>
+        <ScrollViewer Grid.Row="2" Grid.Column="1" VerticalScrollBarVisibility="Visible">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Image Tapped="imgZahtjevi_Tapped" Name="imgZahtjevi" Margin="0,30,0,0" Source="/Assets/request.png"  Grid.Row="0"  Grid.Column="0" Height="80" Width="80"></Image>
+                <StackPanel Grid.RowSpan="2" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Margin="5,30,0,0">
+                    <TextBlock Tapped="tbZahtjevi_Tapped"  Name="tbZahtjevi" Text="Zahtjevi" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                    <TextBlock  Name="BrojZahtjeva" Text="Ukupno: " FontSize="17" Style="{StaticResource BaseTextBlockStyle}" Grid.ColumnSpan="2" TextWrapping="WrapWholeWords"></TextBlock>
+                </StackPanel>
+                <Image Tapped="imgAktivne_Tapped" Name="imgAktivne" Margin="0,30,0,0" Source="/Assets/Active-order.png"  Grid.Row="1"  Grid.Column="0" Height="80" Width="80"></Image>
+                <StackPanel  Grid.RowSpan="2" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Margin="5,30,0,0">
+                    <TextBlock Tapped="Aktivne_Tapped" Name="Aktivne" Text="Aktivne" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                    <TextBlock  Name="BrojAktivnih" Text="Ukupno: " FontSize="17"  Style="{StaticResource BaseTextBlockStyle}" Grid.ColumnSpan="2" TextWrapping="WrapWholeWords"></TextBlock>
+                </StackPanel>
+                <Image Name="imgOtkazane" Margin="0,30,0,0" Source="/Assets/Cancel.png"  Grid.Row="2"  Grid.Column="0" Height="80" Width="80"></Image>
+                <StackPanel  Grid.RowSpan="2" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Margin="5,30,0,0">
+                    <TextBlock  Name="Otkazane" Text="Otkazane" Style="{StaticResource MessageDialogTitleStyle}"></TextBlock>
+                    <TextBlock  Name="BrojOtkazanih" Text="Ukupno: " FontSize="17"  Style="{StaticResource BaseTextBlockStyle}" Grid.ColumnSpan="2" TextWrapping="WrapWholeWords"></TextBlock>
+                </StackPanel>
+            </Grid>
+        </ScrollViewer>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="False" Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Icon="Home" Name="btnHome"  ToolTipService.ToolTip="Moj Profil" Click="btnHome_Click"/>
+                <AppBarButton Icon="Add" Name="btnNoviProizvod" Click="btnNoviProizvod_Click" ToolTipService.ToolTip="Dodaj proizvod"/>
+                <AppBarButton Icon="Message" Name="btnPoruke" Click="btnPoruke_Click" ToolTipService.ToolTip="Moje poruke"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

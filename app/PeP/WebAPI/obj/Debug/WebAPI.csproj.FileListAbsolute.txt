@@ -1,0 +1,170 @@
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\csc.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\vbc.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\WebAPI.dll.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\WebAPI.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\WebAPI.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\EntityFramework.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\MetroFramework.Design.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\MetroFramework.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\MetroFramework.Fonts.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\PCL.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Web.Http.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Shim.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\PCLCrypto.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Validation.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\PCL.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\EntityFramework.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Web.Http.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Shim.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Shim.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\PCLCrypto.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\bin\Validation.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.isUTokuNarudzba.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.DojamNarudzbaUnique.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.isTrgovina.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.isDeleted.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.KomentarKorisnikId.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.OpstinaId.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.opstinaFK.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.OpstinaId_FK.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.adresa.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.slike.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.ulicaINT.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.adresa1.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.adresa11.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.proizvodDatum.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.koristen.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.favoritiConstraint.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.Proizvod_AktivanBool.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.PorukaDateTime.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.PorukaIsDeleted.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.PorukeDeleted.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacije1.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacije2.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacije3.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.NarudzbaNapomena.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.narudzbeNapomena2.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notigikacije4.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacija5.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacija6.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.NotifikacijeKomentarisaoProizvod.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacijeNUll.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.ocjeneDojam.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.ocjeneINT.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.NrudzbaIdnullable.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.korisnikIdDOjam.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.KorisnikIdDojamNullable.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Migrations.Migracija_Test.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.Util.MessagesAPI.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WebAPI\obj\Debug\WebAPI.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\csc.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\vbc.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\WebAPI.dll.config
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\WebAPI.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\WebAPI.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\EntityFramework.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\MetroFramework.Design.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\MetroFramework.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\MetroFramework.Fonts.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Newtonsoft.Json.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\PCL.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Web.Cors.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Web.Http.Cors.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Web.Http.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Shim.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\PCLCrypto.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Validation.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\PCL.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\EntityFramework.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Web.Http.Cors.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Newtonsoft.Json.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Web.Http.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Shim.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Shim.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\PCLCrypto.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\bin\Validation.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.isUTokuNarudzba.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.DojamNarudzbaUnique.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.isTrgovina.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.isDeleted.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.KomentarKorisnikId.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.OpstinaId.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.opstinaFK.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.OpstinaId_FK.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.adresa.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.slike.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.ulicaINT.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.adresa1.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.adresa11.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.proizvodDatum.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.koristen.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.favoritiConstraint.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.Proizvod_AktivanBool.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.PorukaDateTime.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.PorukaIsDeleted.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.PorukeDeleted.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacije1.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacije2.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacije3.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.NarudzbaNapomena.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.narudzbeNapomena2.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notigikacije4.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacija5.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacija6.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.NotifikacijeKomentarisaoProizvod.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.notifikacijeNUll.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.ocjeneDojam.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.ocjeneINT.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.NrudzbaIdnullable.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.korisnikIdDOjam.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.KorisnikIdDojamNullable.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Migrations.Migracija_Test.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.Util.MessagesAPI.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WebAPI\obj\Debug\WebAPI.pdb

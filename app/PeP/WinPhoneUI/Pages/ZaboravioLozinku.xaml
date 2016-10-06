@@ -1,0 +1,34 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.ZaboravioLozinku"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#546970">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.ColumnSpan="2" Margin="10,0,0,0" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <TextBlock Text="Oporavak lozinke" FontSize="14"></TextBlock>
+            <TextBlock Text="Online::kupovina" FontSize="35"></TextBlock>
+
+        </StackPanel>
+        <Image Grid.Column="1" VerticalAlignment="Top" HorizontalAlignment="Right" Source="/Assets/mobile-finger-256.png" Margin="0,10,35,0"></Image>
+        <TextBlock Grid.Row="1" Margin="20,10,5,0"  VerticalAlignment="Center" HorizontalAlignment="Right" Name="lblKorisnickoIme" Text="Korisničko ime:" FontSize="20"></TextBlock>
+        <TextBox Name="txtKorisnickoIme" Grid.Row="1" Grid.Column="1" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Margin="0,10,10,0" ></TextBox>
+        <Button Name="btnPosalji" Content="Pošalji"  Click="btnPosalji_Click" FontSize="20" Grid.Column="1" Grid.Row="3" VerticalAlignment="Top" HorizontalAlignment="Center"></Button>
+        </Grid>
+</Page>

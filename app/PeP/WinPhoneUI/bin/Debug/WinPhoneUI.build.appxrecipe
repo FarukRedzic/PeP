@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>FARUKREDZIC</Machine>
+    <WindowsUser>Faruk</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0640477c-60cd-4935-a873-86fc815ded20</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.exe">
+      <PackagePath>WinPhoneUI.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.exe.config">
+      <PackagePath>WinPhoneUI.exe.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Coding4Fun.Toolkit.Controls.2.1.8\lib\wpa81\Coding4Fun.Toolkit.Controls.dll">
+      <PackagePath>Coding4Fun.Toolkit.Controls.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Coding4Fun.Toolkit.Controls.2.1.8\lib\wpa81\Coding4Fun.Toolkit.dll">
+      <PackagePath>Coding4Fun.Toolkit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Newtonsoft.Json.6.0.2\lib\portable-net45+wp80+win8+wpa81\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\PCL\bin\Debug\PCL.dll">
+      <PackagePath>PCL.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\PCLCrypto.2.0.147\lib\portable-win81+wpa81\PCLCrypto.dll">
+      <PackagePath>PCLCrypto.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\PInvoke.BCrypt.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.BCrypt.dll">
+      <PackagePath>PInvoke.BCrypt.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\PInvoke.Kernel32.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.Kernel32.dll">
+      <PackagePath>PInvoke.Kernel32.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\PInvoke.NCrypt.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.NCrypt.dll">
+      <PackagePath>PInvoke.NCrypt.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\PInvoke.Windows.Core.0.3.2\lib\portable-net45+win+wpa81+MonoAndroid10+xamarinios10+MonoTouch10\PInvoke.Windows.Core.dll">
+      <PackagePath>PInvoke.Windows.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\shim.2.0.0\lib\portable-win81+wpa81\Shim.dll">
+      <PackagePath>Shim.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Microsoft.AspNet.WebApi.Client.5.2.0\lib\portable-wp8+netcore45+net45+wp81+wpa81\System.Net.Http.Formatting.dll">
+      <PackagePath>System.Net.Http.Formatting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Microsoft.Net.Http.2.2.22\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Validation.2.2.8\lib\dotnet\Validation.dll">
+      <PackagePath>Validation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\WebApiRestService.WebApiClient.1.1\lib\portable-net45+win+wpa81+wp80\WebApiRestService.WebApiClient.dll">
+      <PackagePath>WebApiRestService.WebApiClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\WriteableBitmapEx.1.5.0.0\lib\wpa81\WriteableBitmapEx.WinRT.dll">
+      <PackagePath>WriteableBitmapEx.WinRT.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Active-order.png">
+      <PackagePath>Assets\Active-order.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\add-comment.png">
+      <PackagePath>Assets\add-comment.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\add-item.png">
+      <PackagePath>Assets\add-item.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Cancel.png">
+      <PackagePath>Assets\Cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\cart.png">
+      <PackagePath>Assets\cart.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\edit-item.png">
+      <PackagePath>Assets\edit-item.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\edit-user.png">
+      <PackagePath>Assets\edit-user.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\edit_userpng.png">
+      <PackagePath>Assets\edit_userpng.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Inbox.png">
+      <PackagePath>Assets\Inbox.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\mobile-finger-256.png">
+      <PackagePath>Assets\mobile-finger-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\order.png">
+      <PackagePath>Assets\order.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\orders.png">
+      <PackagePath>Assets\orders.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Outbox.png">
+      <PackagePath>Assets\Outbox.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\passReset.png">
+      <PackagePath>Assets\passReset.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\password.png">
+      <PackagePath>Assets\password.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Poruke.png">
+      <PackagePath>Assets\Poruke.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\profil.png">
+      <PackagePath>Assets\profil.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\profile.png">
+      <PackagePath>Assets\profile.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\profilna.png">
+      <PackagePath>Assets\profilna.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\refresh.png">
+      <PackagePath>Assets\refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\register.png">
+      <PackagePath>Assets\register.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\request.png">
+      <PackagePath>Assets\request.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\star.png">
+      <PackagePath>Assets\star.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\update.png">
+      <PackagePath>Assets\update.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Zakljucena.png">
+      <PackagePath>Assets\Zakljucena.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\Infographics_10080767_thumbnail.jpg">
+      <PackagePath>Assets\Infographics_10080767_thumbnail.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\Assets\onlineShop.jpg">
+      <PackagePath>Assets\onlineShop.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.xr.xml">
+      <PackagePath>WinPhoneUI.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Login.xbf">
+      <PackagePath>Login.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\AktivneNarudzbe.xbf">
+      <PackagePath>Pages\AktivneNarudzbe.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\AktivneDolazne.xbf">
+      <PackagePath>Pages\AktivneDolazne.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\AktivneOdlazne.xbf">
+      <PackagePath>Pages\AktivneOdlazne.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\DolazniZahtjevi.xbf">
+      <PackagePath>Pages\DolazniZahtjevi.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Inbox.xbf">
+      <PackagePath>Pages\Inbox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\IzmjenaLozinke.xbf">
+      <PackagePath>Pages\IzmjenaLozinke.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Korisnici.xbf">
+      <PackagePath>Pages\Korisnici.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\MojeNarudzbe.xbf">
+      <PackagePath>Pages\MojeNarudzbe.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\OdlazniZahtjevi.xbf">
+      <PackagePath>Pages\OdlazniZahtjevi.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\OstaviDojam.xbf">
+      <PackagePath>Pages\OstaviDojam.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProcesirajAktivnu.xbf">
+      <PackagePath>Pages\ProcesirajAktivnu.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProcesirajZahtjev.xbf">
+      <PackagePath>Pages\ProcesirajZahtjev.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Proizvodi.xbf">
+      <PackagePath>Pages\Proizvodi.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ZaboravioLozinku.xbf">
+      <PackagePath>Pages\ZaboravioLozinku.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ZahtjeviNarudzbe.xbf">
+      <PackagePath>Pages\ZahtjeviNarudzbe.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\MojProfil.xbf">
+      <PackagePath>Pages\MojProfil.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\NovaPoruka.xbf">
+      <PackagePath>Pages\NovaPoruka.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\NoviKomentar.xbf">
+      <PackagePath>Pages\NoviKomentar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Outbox.xbf">
+      <PackagePath>Pages\Outbox.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Poruke.xbf">
+      <PackagePath>Pages\Poruke.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\PregledNarudzba.xbf">
+      <PackagePath>Pages\PregledNarudzba.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\PregledPoruka.xbf">
+      <PackagePath>Pages\PregledPoruka.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodAdd.xbf">
+      <PackagePath>Pages\ProizvodAdd.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodDetalji.xbf">
+      <PackagePath>Pages\ProizvodDetalji.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodEdit.xbf">
+      <PackagePath>Pages\ProizvodEdit.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Registracija.xbf">
+      <PackagePath>Pages\Registracija.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\UpdateProfil.xbf">
+      <PackagePath>Pages\UpdateProfil.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Coding4Fun.Toolkit.Controls.2.1.8\lib\wpa81\Coding4Fun.Toolkit.Controls\Coding4Fun.Toolkit.Controls.xr.xml">
+      <PackagePath>Coding4Fun.Toolkit.Controls\Coding4Fun.Toolkit.Controls.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\packages\Coding4Fun.Toolkit.Controls.2.1.8\lib\wpa81\Coding4Fun.Toolkit.Controls\Themes\Generic.xbf">
+      <PackagePath>Coding4Fun.Toolkit.Controls\Themes\Generic.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

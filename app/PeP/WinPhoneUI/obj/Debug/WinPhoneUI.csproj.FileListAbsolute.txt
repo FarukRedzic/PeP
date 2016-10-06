@@ -1,0 +1,462 @@
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\App.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Login.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\AktivneNarudzbe.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\AktivneDolazne.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\AktivneOdlazne.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\DolazniZahtjevi.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\Inbox.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\IzmjenaLozinke.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\Korisnici.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\MojeNarudzbe.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\OdlazniZahtjevi.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\OstaviDojam.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\ProcesirajAktivnu.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\ProcesirajZahtjev.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\Proizvodi.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\ZaboravioLozinku.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\ZahtjeviNarudzbe.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\MojProfil.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\NovaPoruka.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\NoviKomentar.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\Outbox.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\Poruke.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\PregledNarudzba.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\PregledPoruka.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodAdd.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodDetalji.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodEdit.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\Registracija.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Pages\UpdateProfil.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.xr.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\resources.pri
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\AppxManifest.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.build.appxrecipe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PCL.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PCLCrypto.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Shim.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Validation.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PCL.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.pri
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.Controls.pri
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PCLCrypto.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Shim.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Shim.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Shim.pri
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\Validation.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\App.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\App.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Login.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Login.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.g.i.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\App.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Login.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.xaml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\App.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Login.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.xbf
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\en\Validation.Strings.resw
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\layout.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\layout.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\Resources.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\Resources.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\pri.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\pri.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\priconfig.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\priconfig.xml.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation.pri
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Validation\qualifiers.txt
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\priconfig.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\priconfig.xml.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\layout.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\layout.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\resources.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\resources.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\pri.resfiles
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\pri.resfiles.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\qualifiers.txt
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Coding4Fun.Toolkit.pri.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Coding4Fun.Toolkit.Controls.pri.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\Shim.pri.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinPhoneUI\obj\Debug\ProjectArchitectures.txt
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.exe.config
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\App.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Login.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\AktivneNarudzbe.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\AktivneDolazne.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\AktivneOdlazne.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\DolazniZahtjevi.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Inbox.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\IzmjenaLozinke.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Korisnici.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\MojeNarudzbe.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\OdlazniZahtjevi.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\OstaviDojam.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProcesirajAktivnu.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProcesirajZahtjev.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Proizvodi.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ZaboravioLozinku.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ZahtjeviNarudzbe.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\MojProfil.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\NovaPoruka.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\NoviKomentar.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Outbox.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Poruke.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\PregledNarudzba.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\PregledPoruka.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodAdd.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodDetalji.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\ProizvodEdit.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\Registracija.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Pages\UpdateProfil.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.xr.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\resources.pri
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\AppxManifest.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WinPhoneUI.build.appxrecipe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.Controls.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PCL.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PCLCrypto.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.BCrypt.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.Kernel32.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.NCrypt.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Shim.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Validation.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WebApiRestService.WebApiClient.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WriteableBitmapEx.WinRT.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PCL.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.pri
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Coding4Fun.Toolkit.Controls.pri
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PCLCrypto.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.BCrypt.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.Kernel32.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.NCrypt.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Shim.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Shim.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Shim.pri
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\Validation.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WebApiRestService.WebApiClient.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WriteableBitmapEx.WinRT.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\bin\Debug\WriteableBitmapEx.WinRT.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\App.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\App.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Login.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Login.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.g.i.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\App.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Login.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.xaml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\App.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Login.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneNarudzbe.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneDolazne.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\AktivneOdlazne.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\DolazniZahtjevi.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Inbox.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\IzmjenaLozinke.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Korisnici.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojeNarudzbe.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OdlazniZahtjevi.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\OstaviDojam.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajAktivnu.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProcesirajZahtjev.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Proizvodi.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZaboravioLozinku.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ZahtjeviNarudzbe.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\MojProfil.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NovaPoruka.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\NoviKomentar.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Outbox.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Poruke.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledNarudzba.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\PregledPoruka.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodAdd.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodDetalji.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\ProizvodEdit.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\Registracija.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Pages\UpdateProfil.xbf
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.CommonWebApiResources.resw
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\en-US\System.Net.Http.Properties.Resources.resw
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\en\Validation.Strings.resw
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\WinPhoneUI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting.pri
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\qualifiers.txt
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation.pri
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\qualifiers.txt
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\priconfig.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\priconfig.xml.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\layout.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\layout.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\resources.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\resources.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\pri.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\pri.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\qualifiers.txt
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Coding4Fun.Toolkit.pri.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Coding4Fun.Toolkit.Controls.pri.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Shim.pri.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\ProjectArchitectures.txt
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\layout.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\layout.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\Resources.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\Resources.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\pri.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\pri.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\priconfig.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\System.Net.Http.Formatting\priconfig.xml.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\layout.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\layout.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\Resources.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\Resources.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\pri.resfiles
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\pri.resfiles.intermediate
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\priconfig.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\obj\Debug\Validation\priconfig.xml.intermediate

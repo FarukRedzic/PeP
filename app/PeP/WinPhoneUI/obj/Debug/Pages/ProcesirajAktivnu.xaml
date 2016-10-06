@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.ProcesirajAktivnu"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition />
+                <ColumnDefinition Width="40"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+             <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Column="1" Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <TextBlock Text="Narudžba"  VerticalAlignment="Center"  Grid.Row="0" FontSize="35" FontFamily="Segoe UI"></TextBlock>
+                <Image Source="/Assets/Order.png" Grid.Column="1" VerticalAlignment="Center"  Grid.Row="0" Width="90" Height="80" Margin="0,10,15,0" ></Image>
+            </StackPanel>
+            <ScrollViewer Grid.Row="1" Grid.Column="1">
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Grid.Row="0">
+                        <TextBlock Name="tbPrimaoc" Text="Primaoc narudžbe: " FontSize="17" Margin="0,10,0,0" ></TextBlock>
+                        <TextBlock Name="tbKreirao" Text="Kreirao narudžbu: " FontSize="17" Margin="0,10,0,0" ></TextBlock>
+                        <TextBlock Name="tbProizvod" Text="Proizvod: " FontSize="15" Margin="0,10,0,0" ></TextBlock>
+                    </StackPanel>
+                    <TextBox Height="300" IsEnabled="False"  Name="txtNapomena" Grid.Row="1" Header="Napomena: "  HorizontalAlignment="Stretch" TextWrapping="Wrap"></TextBox>
+                    <Button x:ConnectionId='1' Content="Zaključi" VerticalAlignment="Top" Grid.Row="2" HorizontalAlignment="Right" Name="btnZakljuci"                          ></Button>
+                    <Button x:ConnectionId='2' Content="Otkaži" VerticalAlignment="Top" Grid.Row="2" HorizontalAlignment="Right" Name="btnOtkazi"                        ></Button>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>
+

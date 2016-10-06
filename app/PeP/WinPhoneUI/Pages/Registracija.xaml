@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.Registracija"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="#546970">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"/>
+            <ColumnDefinition />
+            <ColumnDefinition Width="40"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Registracija" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" FontSize="40" FontFamily="Segoe UI"></TextBlock>
+        <Image Source="/Assets/register.png" Grid.Column="1" Grid.Row="0" Width="90" HorizontalAlignment="Right" Height="80" Margin="0,10,15,0" ></Image>
+        <ScrollViewer Grid.Row="1" Grid.Column="1" VerticalScrollBarVisibility="Visible" >
+            <StackPanel>
+                <TextBox Name="txtIme" Header="Ime:" HorizontalAlignment="Stretch"></TextBox>
+                <TextBox Name="txtPrezime" Header="Prezime:" HorizontalAlignment="Stretch"></TextBox>
+                <TextBox Name="txtEmail" Header="Email:" HorizontalAlignment="Stretch" InputScope="EmailSmtpAddress"></TextBox>
+                <TextBox Name="txtTelefon" Header="Telefon: (xxx xx-xxx-xxx) " HorizontalAlignment="Stretch" InputScope="TelephoneNumber"></TextBox>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Slika:"  FontSize="17" HorizontalAlignment="Left" Foreground="Gray" VerticalAlignment="Center"></TextBlock>
+                    <CheckBox Name="chkSlika" Grid.Column="0" IsEnabled="False" Margin="10,0,0,0"></CheckBox>
+                    </StackPanel>
+                    <Button x:Name="btnPretraga" Content="Pretraži" HorizontalAlignment="Center"  VerticalAlignment="Bottom" Click="btnPretraga_Click"/>
+                </Grid>
+                <ComboBox Name="cbxOpstina" PlaceholderText="Odaberite opštinu" Header="Opština:" HorizontalAlignment="Stretch"></ComboBox>
+                <TextBox Name="txtKorisnickoIme" Header="Korisničko ime:" HorizontalAlignment="Stretch"></TextBox>
+                <PasswordBox Name="txtLozinka" Header="Lozinka: " HorizontalAlignment="Stretch"></PasswordBox>
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                        <ColumnDefinition />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Grid.Column="0" Text="Trgovina:" Foreground="Gray" FontSize="17" VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
+                    <CheckBox Grid.Column="1" Name="chkisTrgovina" HorizontalAlignment="Left"></CheckBox>
+                </Grid>
+                <TextBox Name="txtAdresa" Header="Adresa: " HorizontalAlignment="Stretch"></TextBox>
+            </StackPanel>
+        </ScrollViewer>
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Button Name="btnOdustani" Content="Odustani" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Top" Click="btnOdustani_Click"></Button>
+            <Button Name="btnPotvrdi" Content="Potvrdi" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Top" Click="btnPotvrdi_Click"></Button>
+        </Grid>
+    </Grid>
+</Page>

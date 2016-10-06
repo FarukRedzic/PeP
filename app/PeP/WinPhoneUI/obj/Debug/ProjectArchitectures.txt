@@ -1,0 +1,2 @@
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\PCL\PCL.csproj;neutral
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinPhoneUI\WinPhoneUI.csproj;neutral

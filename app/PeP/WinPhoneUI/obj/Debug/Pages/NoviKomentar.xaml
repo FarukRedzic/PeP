@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.NoviKomentar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition />
+                <ColumnDefinition Width="40"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="135"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Novi komentar" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" FontSize="30" FontFamily="Segoe UI"></TextBlock>
+            <Image Source="/Assets/add-comment.png" Grid.Column="1" Grid.Row="0" Width="90" HorizontalAlignment="Right" Height="80" Margin="0,10,15,0" ></Image>
+            <ScrollViewer Grid.Row="1" Grid.Column="1" VerticalScrollBarVisibility="Visible">
+                <StackPanel>
+                    <TextBox MinHeight="400" Name="txtKomentar" Header="Komentar: " HorizontalAlignment="Stretch" TextWrapping="Wrap"></TextBox>
+                </StackPanel>
+            </ScrollViewer>
+            <Grid Grid.Column="1" Grid.Row="2">
+                <Button x:ConnectionId='1' Name="btnPotvrdi" Content="Potvrdi" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Top"                         ></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="False" Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='2' Icon="Home" Name="btnHome"  ToolTipService.ToolTip="Moj Profil"                      />
+                <AppBarButton x:ConnectionId='3' Icon="Add" Name="btnNoviProizvod"                               ToolTipService.ToolTip="Dodaj proizvod"/>
+                <AppBarButton x:ConnectionId='4' Icon="Message" Name="btnPoruke"                         ToolTipService.ToolTip="Moje poruke"/>
+                <AppBarButton x:ConnectionId='5' Icon="Folder" Name="btnNarudzbe"                           ToolTipService.ToolTip="Moje narudzbe"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>
+

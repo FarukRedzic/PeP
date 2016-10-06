@@ -1,0 +1,69 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.ProizvodAdd"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition />
+                <ColumnDefinition Width="40"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Novi proizvod" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" FontSize="30" FontFamily="Segoe UI"></TextBlock>
+            <Image Source="/Assets/add-item.png" Grid.Column="1" Grid.Row="0" Width="90" HorizontalAlignment="Right" Height="80" Margin="0,10,15,0" ></Image>
+            <ScrollViewer Grid.Row="1" Grid.Column="1" VerticalScrollBarVisibility="Visible">
+                <StackPanel>
+                    <TextBox Name="txtNaziv" Header="Naziv:" HorizontalAlignment="Stretch"></TextBox>
+                    <TextBox Name="txtCijena" Header="Cijena:" InputScope="Number" HorizontalAlignment="Stretch"></TextBox>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Slika:"  FontSize="17" HorizontalAlignment="Left" Foreground="Gray" VerticalAlignment="Center"></TextBlock>
+                            <CheckBox Name="chkSlika" Grid.Column="0" IsEnabled="False" Margin="10,0,0,0"></CheckBox>
+                        </StackPanel>
+                        <Button x:Name="btnPretraga" Content="Pretraži" HorizontalAlignment="Center"  VerticalAlignment="Bottom" Click="btnPretraga_Click"/>
+                    </Grid>
+                    <ComboBox Name="cbxKategorija" PlaceholderText="Odaberite kategoriju" HorizontalAlignment="Stretch"></ComboBox>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                            <ColumnDefinition />
+                        </Grid.ColumnDefinitions>
+                        <TextBlock Grid.Column="0" Text="Korišten:" Foreground="Gray" FontSize="17" VerticalAlignment="Center" HorizontalAlignment="Left"></TextBlock>
+                        <CheckBox BorderThickness="1" Name="chkKoristen" HorizontalAlignment="Left" Grid.ColumnSpan="3" Margin="88,-4,0,0"/>
+                    </Grid>
+                    <TextBox MinHeight="500" Name="txtOpis" Header="Opis: " HorizontalAlignment="Stretch" TextWrapping="Wrap"></TextBox>
+                </StackPanel>
+            </ScrollViewer>
+            <Grid Grid.Column="1" Grid.Row="2">
+                <Button Name="btnPotvrdi" Content="Potvrdi" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Top" Click="btnPotvrdi_Click"></Button>
+            </Grid>
+        </Grid>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="False" Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Icon="Home" Name="btnHome"  ToolTipService.ToolTip="Moj Profil" Click="btnHome_Click"/>
+                <AppBarButton Icon="Message" Name="btnPoruke" Click="btnPoruke_Click"  ToolTipService.ToolTip="Moje poruke"/>
+                <AppBarButton Icon="Folder" Name="btnNarudzbe" Click="btnNarudzbe_Click" ToolTipService.ToolTip="Moje narudzbe"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

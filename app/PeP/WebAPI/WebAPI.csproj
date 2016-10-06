@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{420CAFEE-AD93-44F7-9ED4-287718BEF06F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WebAPI</RootNamespace>
+    <AssemblyName>WebAPI</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Design.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.3.5.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.3.5.0\lib\net45\MetroFramework.Fonts.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.Cors, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Cors.5.2.3\lib\net45\System.Web.Cors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Web.Http.Cors, Version=5.2.3.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Cors.5.2.3\lib\net45\System.Web.Http.Cors.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.6.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http.Formatting">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Client.5.2.3\lib\net45\System.Net.Http.Formatting.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.Core.5.2.3\lib\net45\System.Web.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Http.WebHost">
+      <HintPath>..\packages\Microsoft.AspNet.WebApi.WebHost.5.2.3\lib\net45\System.Web.Http.WebHost.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Global.asax" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Controllers\DojamController.cs" />
+    <Compile Include="Controllers\FavoritiController.cs" />
+    <Compile Include="Controllers\KategorijaController.cs" />
+    <Compile Include="Controllers\KomentarController.cs" />
+    <Compile Include="Controllers\KorisniciUlogeController.cs" />
+    <Compile Include="Controllers\KorisnikController.cs" />
+    <Compile Include="Controllers\LogoviController.cs" />
+    <Compile Include="Controllers\NarudzbaController.cs" />
+    <Compile Include="Controllers\NotifikacijeController.cs" />
+    <Compile Include="Controllers\PorukaController.cs" />
+    <Compile Include="Controllers\ProizvodController.cs" />
+    <Compile Include="DAL\Connection.cs" />
+    <Compile Include="DAL\DBContext.cs" />
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605221123377_isUTokuNarudzba.cs" />
+    <Compile Include="Migrations\201605221123377_isUTokuNarudzba.Designer.cs">
+      <DependentUpon>201605221123377_isUTokuNarudzba.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605221145442_DojamNarudzbaUnique.cs" />
+    <Compile Include="Migrations\201605221145442_DojamNarudzbaUnique.Designer.cs">
+      <DependentUpon>201605221145442_DojamNarudzbaUnique.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605221347093_isTrgovina.cs" />
+    <Compile Include="Migrations\201605221347093_isTrgovina.Designer.cs">
+      <DependentUpon>201605221347093_isTrgovina.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605221526141_isDeleted.cs" />
+    <Compile Include="Migrations\201605221526141_isDeleted.Designer.cs">
+      <DependentUpon>201605221526141_isDeleted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605221845385_KomentarKorisnikId.cs" />
+    <Compile Include="Migrations\201605221845385_KomentarKorisnikId.Designer.cs">
+      <DependentUpon>201605221845385_KomentarKorisnikId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605232046591_OpstinaId.cs" />
+    <Compile Include="Migrations\201605232046591_OpstinaId.Designer.cs">
+      <DependentUpon>201605232046591_OpstinaId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605232202006_opstinaFK.cs" />
+    <Compile Include="Migrations\201605232202006_opstinaFK.Designer.cs">
+      <DependentUpon>201605232202006_opstinaFK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201605240932004_OpstinaId_FK.cs" />
+    <Compile Include="Migrations\201605240932004_OpstinaId_FK.Designer.cs">
+      <DependentUpon>201605240932004_OpstinaId_FK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606020936019_adresa.cs" />
+    <Compile Include="Migrations\201606020936019_adresa.Designer.cs">
+      <DependentUpon>201606020936019_adresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606022314394_slike.cs" />
+    <Compile Include="Migrations\201606022314394_slike.Designer.cs">
+      <DependentUpon>201606022314394_slike.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606022347446_ulicaINT.cs" />
+    <Compile Include="Migrations\201606022347446_ulicaINT.Designer.cs">
+      <DependentUpon>201606022347446_ulicaINT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606031645447_adresa1.cs" />
+    <Compile Include="Migrations\201606031645447_adresa1.Designer.cs">
+      <DependentUpon>201606031645447_adresa1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606031746002_adresa11.cs" />
+    <Compile Include="Migrations\201606031746002_adresa11.Designer.cs">
+      <DependentUpon>201606031746002_adresa11.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606051251079_proizvodDatum.cs" />
+    <Compile Include="Migrations\201606051251079_proizvodDatum.Designer.cs">
+      <DependentUpon>201606051251079_proizvodDatum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606051343571_koristen.cs" />
+    <Compile Include="Migrations\201606051343571_koristen.Designer.cs">
+      <DependentUpon>201606051343571_koristen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606071730081_favoritiConstraint.cs" />
+    <Compile Include="Migrations\201606071730081_favoritiConstraint.Designer.cs">
+      <DependentUpon>201606071730081_favoritiConstraint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606072138566_Proizvod_AktivanBool.cs" />
+    <Compile Include="Migrations\201606072138566_Proizvod_AktivanBool.Designer.cs">
+      <DependentUpon>201606072138566_Proizvod_AktivanBool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606081335178_PorukaDateTime.cs" />
+    <Compile Include="Migrations\201606081335178_PorukaDateTime.Designer.cs">
+      <DependentUpon>201606081335178_PorukaDateTime.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606081505488_PorukaIsDeleted.cs" />
+    <Compile Include="Migrations\201606081505488_PorukaIsDeleted.Designer.cs">
+      <DependentUpon>201606081505488_PorukaIsDeleted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606081856453_PorukeDeleted.cs" />
+    <Compile Include="Migrations\201606081856453_PorukeDeleted.Designer.cs">
+      <DependentUpon>201606081856453_PorukeDeleted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606082203476_notifikacije1.cs" />
+    <Compile Include="Migrations\201606082203476_notifikacije1.Designer.cs">
+      <DependentUpon>201606082203476_notifikacije1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606082250595_notifikacije2.cs" />
+    <Compile Include="Migrations\201606082250595_notifikacije2.Designer.cs">
+      <DependentUpon>201606082250595_notifikacije2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606090954073_notifikacije3.cs" />
+    <Compile Include="Migrations\201606090954073_notifikacije3.Designer.cs">
+      <DependentUpon>201606090954073_notifikacije3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606091201072_NarudzbaNapomena.cs" />
+    <Compile Include="Migrations\201606091201072_NarudzbaNapomena.Designer.cs">
+      <DependentUpon>201606091201072_NarudzbaNapomena.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606091205340_narudzbeNapomena2.cs" />
+    <Compile Include="Migrations\201606091205340_narudzbeNapomena2.Designer.cs">
+      <DependentUpon>201606091205340_narudzbeNapomena2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606091735476_notigikacije4.cs" />
+    <Compile Include="Migrations\201606091735476_notigikacije4.Designer.cs">
+      <DependentUpon>201606091735476_notigikacije4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606091918575_notifikacija5.cs" />
+    <Compile Include="Migrations\201606091918575_notifikacija5.Designer.cs">
+      <DependentUpon>201606091918575_notifikacija5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606100009205_notifikacija6.cs" />
+    <Compile Include="Migrations\201606100009205_notifikacija6.Designer.cs">
+      <DependentUpon>201606100009205_notifikacija6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606101706371_NotifikacijeKomentarisaoProizvod.cs" />
+    <Compile Include="Migrations\201606101706371_NotifikacijeKomentarisaoProizvod.Designer.cs">
+      <DependentUpon>201606101706371_NotifikacijeKomentarisaoProizvod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606101748528_notifikacijeNUll.cs" />
+    <Compile Include="Migrations\201606101748528_notifikacijeNUll.Designer.cs">
+      <DependentUpon>201606101748528_notifikacijeNUll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606110239462_ocjeneDojam.cs" />
+    <Compile Include="Migrations\201606110239462_ocjeneDojam.Designer.cs">
+      <DependentUpon>201606110239462_ocjeneDojam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606110954012_ocjeneINT.cs" />
+    <Compile Include="Migrations\201606110954012_ocjeneINT.Designer.cs">
+      <DependentUpon>201606110954012_ocjeneINT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606111206117_NrudzbaIdnullable.cs" />
+    <Compile Include="Migrations\201606111206117_NrudzbaIdnullable.Designer.cs">
+      <DependentUpon>201606111206117_NrudzbaIdnullable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606111217332_korisnikIdDOjam.cs" />
+    <Compile Include="Migrations\201606111217332_korisnikIdDOjam.Designer.cs">
+      <DependentUpon>201606111217332_korisnikIdDOjam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606111231349_KorisnikIdDojamNullable.cs" />
+    <Compile Include="Migrations\201606111231349_KorisnikIdDojamNullable.Designer.cs">
+      <DependentUpon>201606111231349_KorisnikIdDojamNullable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201606121157179_Migracija_Test.cs" />
+    <Compile Include="Migrations\201606121157179_Migracija_Test.Designer.cs">
+      <DependentUpon>201606121157179_Migracija_Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Dojam.cs" />
+    <Compile Include="Models\Favoriti.cs" />
+    <Compile Include="Models\Kategorija.cs" />
+    <Compile Include="Models\Komentar.cs" />
+    <Compile Include="Models\Korisnik.cs" />
+    <Compile Include="Models\KorisniciUloge.cs" />
+    <Compile Include="Models\Logovi.cs" />
+    <Compile Include="Models\Narudzba.cs" />
+    <Compile Include="Models\Notifikacije.cs" />
+    <Compile Include="Models\Opstina.cs" />
+    <Compile Include="Models\Poruka.cs" />
+    <Compile Include="Models\Proizvod.cs" />
+    <Compile Include="Models\Uloga.cs" />
+    <Compile Include="Models\VrstaNotifikacije.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ExtensionKlase\DateTimeExtension.cs" />
+    <Compile Include="Util\ExceptionHandler.cs" />
+    <Compile Include="Util\MessagesAPI.Designer.cs">
+      <DependentUpon>MessagesAPI.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Util\MessagesHandler.cs" />
+    <Compile Include="Util\Recommender.cs" />
+    <Compile Include="ViewModels\boolCBXVM.cs" />
+    <Compile Include="ViewModels\DojamVM.cs" />
+    <Compile Include="ViewModels\FavoritiVM.cs" />
+    <Compile Include="ViewModels\KomentarVM.cs" />
+    <Compile Include="ViewModels\KorisnikVM.cs" />
+    <Compile Include="ViewModels\LogoviVM.cs" />
+    <Compile Include="ViewModels\NarudzbaVM.cs" />
+    <Compile Include="ViewModels\OcjenaVM.cs" />
+    <Compile Include="ViewModels\OcjeneProizvodVM.cs" />
+    <Compile Include="ViewModels\PorukaVM.cs" />
+    <Compile Include="ViewModels\ProizvodVM.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201605221123377_isUTokuNarudzba.resx">
+      <DependentUpon>201605221123377_isUTokuNarudzba.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605221145442_DojamNarudzbaUnique.resx">
+      <DependentUpon>201605221145442_DojamNarudzbaUnique.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605221347093_isTrgovina.resx">
+      <DependentUpon>201605221347093_isTrgovina.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605221526141_isDeleted.resx">
+      <DependentUpon>201605221526141_isDeleted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605221845385_KomentarKorisnikId.resx">
+      <DependentUpon>201605221845385_KomentarKorisnikId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605232046591_OpstinaId.resx">
+      <DependentUpon>201605232046591_OpstinaId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605232202006_opstinaFK.resx">
+      <DependentUpon>201605232202006_opstinaFK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201605240932004_OpstinaId_FK.resx">
+      <DependentUpon>201605240932004_OpstinaId_FK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606020936019_adresa.resx">
+      <DependentUpon>201606020936019_adresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606022314394_slike.resx">
+      <DependentUpon>201606022314394_slike.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606022347446_ulicaINT.resx">
+      <DependentUpon>201606022347446_ulicaINT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606031645447_adresa1.resx">
+      <DependentUpon>201606031645447_adresa1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606031746002_adresa11.resx">
+      <DependentUpon>201606031746002_adresa11.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606051251079_proizvodDatum.resx">
+      <DependentUpon>201606051251079_proizvodDatum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606051343571_koristen.resx">
+      <DependentUpon>201606051343571_koristen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606071730081_favoritiConstraint.resx">
+      <DependentUpon>201606071730081_favoritiConstraint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606072138566_Proizvod_AktivanBool.resx">
+      <DependentUpon>201606072138566_Proizvod_AktivanBool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606081335178_PorukaDateTime.resx">
+      <DependentUpon>201606081335178_PorukaDateTime.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606081505488_PorukaIsDeleted.resx">
+      <DependentUpon>201606081505488_PorukaIsDeleted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606081856453_PorukeDeleted.resx">
+      <DependentUpon>201606081856453_PorukeDeleted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606082203476_notifikacije1.resx">
+      <DependentUpon>201606082203476_notifikacije1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606082250595_notifikacije2.resx">
+      <DependentUpon>201606082250595_notifikacije2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606090954073_notifikacije3.resx">
+      <DependentUpon>201606090954073_notifikacije3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606091201072_NarudzbaNapomena.resx">
+      <DependentUpon>201606091201072_NarudzbaNapomena.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606091205340_narudzbeNapomena2.resx">
+      <DependentUpon>201606091205340_narudzbeNapomena2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606091735476_notigikacije4.resx">
+      <DependentUpon>201606091735476_notigikacije4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606091918575_notifikacija5.resx">
+      <DependentUpon>201606091918575_notifikacija5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606100009205_notifikacija6.resx">
+      <DependentUpon>201606100009205_notifikacija6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606101706371_NotifikacijeKomentarisaoProizvod.resx">
+      <DependentUpon>201606101706371_NotifikacijeKomentarisaoProizvod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606101748528_notifikacijeNUll.resx">
+      <DependentUpon>201606101748528_notifikacijeNUll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606110239462_ocjeneDojam.resx">
+      <DependentUpon>201606110239462_ocjeneDojam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606110954012_ocjeneINT.resx">
+      <DependentUpon>201606110954012_ocjeneINT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606111206117_NrudzbaIdnullable.resx">
+      <DependentUpon>201606111206117_NrudzbaIdnullable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606111217332_korisnikIdDOjam.resx">
+      <DependentUpon>201606111217332_korisnikIdDOjam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606111231349_KorisnikIdDojamNullable.resx">
+      <DependentUpon>201606111231349_KorisnikIdDojamNullable.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201606121157179_Migracija_Test.resx">
+      <DependentUpon>201606121157179_Migracija_Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Util\MessagesAPI.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>MessagesAPI.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PCL\PCL.csproj">
+      <Project>{34C1902C-3B2A-4DB2-A406-91B3F08A3FE9}</Project>
+      <Name>PCL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <SaveServerSettingsInUserFile>True</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

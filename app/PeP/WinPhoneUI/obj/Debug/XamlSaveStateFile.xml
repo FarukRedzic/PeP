@@ -1,0 +1,21 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\faruk\documents\visual studio 2015\projects\pep\winphoneui\obj\debug\intermediatexaml\winphoneui.exe" HashGuid="fe6a1d4c-f9dd-e0c8-d340-438c3de307da" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\coding4fun.toolkit.controls.2.1.8\lib\wpa81\coding4fun.toolkit.controls.dll" HashGuid="59d41119-b0fc-e517-99f8-ac3c6de0d72e" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\coding4fun.toolkit.controls.2.1.8\lib\wpa81\coding4fun.toolkit.dll" HashGuid="119685b3-f018-829b-095c-510e7d2a3a28" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\newtonsoft.json.6.0.2\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="9d7edd31-e823-430e-c3cf-22078730f8bb" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\pcl\bin\debug\pcl.dll" HashGuid="8a8b3aba-0f98-a406-302d-abe1c64763cd" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\pclcrypto.2.0.147\lib\portable-win81+wpa81\pclcrypto.dll" HashGuid="7f5747d3-190f-2816-2f99-598f61e9ac14" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\pinvoke.bcrypt.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.bcrypt.dll" HashGuid="a7871029-9cc4-65f0-a2f8-1d587110ebf2" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\pinvoke.kernel32.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.kernel32.dll" HashGuid="6068377b-cf90-d698-b7c8-3327f16952c9" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\pinvoke.ncrypt.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.ncrypt.dll" HashGuid="a3e35b11-c9e0-4e89-4c6d-8f7f7400e60f" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\pinvoke.windows.core.0.3.2\lib\portable-net45+win+wpa81+monoandroid10+xamarinios10+monotouch10\pinvoke.windows.core.dll" HashGuid="1640fc05-bfb9-b488-84ff-26d41810cd9b" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\shim.2.0.0\lib\portable-win81+wpa81\shim.dll" HashGuid="78b83407-6ad4-ff37-1d39-1bc4b579f98c" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\microsoft.aspnet.webapi.client.5.2.0\lib\portable-wp8+netcore45+net45+wp81+wpa81\system.net.http.formatting.dll" HashGuid="be2a4785-9a6a-e28d-8cef-3eb295a45d5a" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\microsoft.net.http.2.2.22\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\validation.2.2.8\lib\dotnet\validation.dll" HashGuid="f7eff8c2-9a3d-f4fc-6fe4-78f849043e26" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\webapirestservice.webapiclient.1.1\lib\portable-net45+win+wpa81+wp80\webapirestservice.webapiclient.dll" HashGuid="61f0686c-adbf-7f03-6087-d67b60a4f166" />
+    <ReferenceAssembly PathName="c:\users\faruk\desktop\pep-seminarskirad-130051\aplikacija-130051\pep\packages\writeablebitmapex.1.5.0.0\lib\wpa81\writeablebitmapex.winrt.dll" HashGuid="6dd9ab30-a8ea-e714-1c9c-a07c544a2da6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

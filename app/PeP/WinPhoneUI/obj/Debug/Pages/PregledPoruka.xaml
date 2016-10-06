@@ -1,0 +1,49 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.PregledPoruka"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition />
+                <ColumnDefinition Width="40"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Text="Poruka" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" FontSize="35" FontFamily="Segoe UI"></TextBlock>
+            <Image Source="/Assets/Poruke.png" Grid.Column="1" Grid.Row="0" Width="90" HorizontalAlignment="Right" Height="80" Margin="0,10,15,0" ></Image>
+            <ScrollViewer Grid.Row="2" Grid.Column="1">
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    
+                    <StackPanel Grid.Row="0">
+                        <TextBlock Name="tbKorisnik" FontSize="17" TextWrapping="Wrap" ></TextBlock>
+                        <TextBlock Name="tbNaslov" Text="Naslov: " Margin="0,5,0,0" FontSize="17" TextWrapping="Wrap" ></TextBlock>
+                    </StackPanel>
+                    <ScrollViewer Grid.Row="1">
+                        <TextBox Height="350" IsEnabled="False"  Name="txtSadrzaj"  Header="Sadržaj: "  HorizontalAlignment="Stretch" TextWrapping="Wrap"></TextBox>
+                    </ScrollViewer>
+                    <Button x:ConnectionId='1' Content="Odgovori" VerticalAlignment="Top" Grid.Row="3" HorizontalAlignment="Right" Name="btnOdgovori"                          ></Button>
+                    <Button x:ConnectionId='2' Content="Obriši" VerticalAlignment="Top" Grid.Row="3" HorizontalAlignment="Left" Name="btnObrisi"                        ></Button>
+                    <TextBlock Text="//Pročitano//" Name="txtProcitano" FontSize="15" Foreground="Gray" Grid.Row="3" HorizontalAlignment="Right" ></TextBlock>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>
+

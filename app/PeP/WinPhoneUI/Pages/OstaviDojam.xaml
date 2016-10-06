@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.OstaviDojam"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40"/>
+                <ColumnDefinition />
+                <ColumnDefinition Width="40"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Horizontal" HorizontalAlignment="Center" >
+                <TextBlock Text="Dojam"   VerticalAlignment="Center"   FontSize="35" FontFamily="Segoe UI"></TextBlock>
+            <Image Source="/Assets/Poruke.png"  Width="90"  Height="80" Margin="0,10,15,0" ></Image>
+            </StackPanel>
+                <ScrollViewer Grid.Row="1" Grid.Column="1">
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <ComboBox Name="cbxOcjene" PlaceholderText="Odaberite ocjenu"></ComboBox>
+                    <TextBox Height="350"  Name="txtDojam" Grid.Row="1" Header="Dojam: "  HorizontalAlignment="Stretch" TextWrapping="Wrap"></TextBox>
+                    <Button Content="Potvrdi" VerticalAlignment="Top" Grid.Row="2" HorizontalAlignment="Right" Name="btnPotvrdi" Click="btnPotvrdi_Click"></Button>
+                </Grid>
+            </ScrollViewer>
+        </Grid>
+    </Grid>
+</Page>

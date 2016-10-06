@@ -1,0 +1,48 @@
+﻿<Page
+    x:Class="WinPhoneUI.Pages.IzmjenaLozinke"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WinPhoneUI.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="40"/>
+            <ColumnDefinition />
+            <ColumnDefinition Width="40"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Izmjena lozinke" Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" FontSize="30" FontFamily="Segoe UI"></TextBlock>
+        <Image Source="/Assets/password.png" Grid.Column="1" Grid.Row="0" Width="95" HorizontalAlignment="Right" Height="80" Margin="0,10,15,0" ></Image>
+        <ScrollViewer Grid.Row="1" Grid.Column="1" VerticalScrollBarVisibility="Visible" >
+            <StackPanel>
+                <PasswordBox Name="txtStaraLozinka" Header="Stara lozinka:" HorizontalAlignment="Stretch"></PasswordBox>
+                <PasswordBox Name="txtNovaLozinka" Header="Nova lozinka:" HorizontalAlignment="Stretch"></PasswordBox>
+                <PasswordBox Name="txtPotvrda" Header="Potvrda lozinke:" HorizontalAlignment="Stretch"></PasswordBox>
+            </StackPanel>
+        </ScrollViewer>
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Button Name="btnPotvrda" Content="Potvrdi" Grid.Column="1" Grid.Row="2" HorizontalAlignment="Right" VerticalAlignment="Top" Click="btnPotvrda_Click"></Button>
+        </Grid>
+    </Grid>
+    <Page.BottomAppBar>
+        <CommandBar IsSticky="False" Name="appBar">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton Icon="Home" Name="btnHome"  ToolTipService.ToolTip="Moj Profil" Click="btnHome_Click"/>
+                <AppBarButton Icon="Add" Name="btnNoviProizvod" Click="btnNoviProizvod_Click" ToolTipService.ToolTip="Dodaj proizvod"/>
+                <AppBarButton Icon="Message" Name="btnPoruke" Click="btnPoruke_Click" ToolTipService.ToolTip="Moje poruke"/>
+                <AppBarButton Icon="Folder" Name="btnNarudzbe" Click="btnNarudzbe_Click" ToolTipService.ToolTip="Moje narudzbe"/>
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+</Page>

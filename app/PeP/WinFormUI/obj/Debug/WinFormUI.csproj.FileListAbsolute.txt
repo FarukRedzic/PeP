@@ -1,0 +1,168 @@
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\csc.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\vbc.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\MetroFramework.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\WebAPI.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\System.Web.Http.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\EntityFramework.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\PCL.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Shim.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\PCLCrypto.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Validation.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\WebAPI.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\System.Web.Http.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\EntityFramework.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\PCL.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Shim.pdb
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Shim.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\PCLCrypto.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\Validation.xml
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.csproj.WinFormUI.exe.config
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmDetaljiAdmin.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmDetaljiKorisnik.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmDojam.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmFavoritDetaljno.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmKomentarDetaljno.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmKomentariProizvod.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmLogin.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.frmMain.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmNoviAdmin.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmNoviKorisnik.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmOcjenaKomentar.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmOcjeneProizvod.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPregledLogovi.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPregledNarudzbe.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPregledProizvodi.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.frmPretragaAdmin.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPretragaKorisnik.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmProfil.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmProizvodDetaljno.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPromjenaLozinke.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmSlideShow.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmZaboravioLozinku.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Reports.Reports.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.Util.Messages.resources
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.exe.licenses
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\RdlCompile.cache
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\RdlCompile.compiled
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Faruk\Documents\Visual Studio 2015\Projects\PeP\WinFormUI\obj\Debug\WinFormUI.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\csc.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\vbc.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\MetroFramework.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\WebAPI.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\System.Web.Http.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\EntityFramework.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\PCL.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Shim.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\PCLCrypto.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Validation.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\WebAPI.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\System.Web.Http.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\EntityFramework.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\PCL.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Shim.pdb
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Shim.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\PCLCrypto.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\Validation.xml
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.csprojResolveAssemblyReference.cache
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.csproj.WinFormUI.exe.config
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmDetaljiAdmin.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmDetaljiKorisnik.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmDojam.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmFavoritDetaljno.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmKomentarDetaljno.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmKomentariProizvod.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmLogin.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.frmMain.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmNoviAdmin.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmNoviKorisnik.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmOcjenaKomentar.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmOcjeneProizvod.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPregledLogovi.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPregledNarudzbe.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPregledProizvodi.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.frmPretragaAdmin.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPretragaKorisnik.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmProfil.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmProizvodDetaljno.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmPromjenaLozinke.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmSlideShow.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Forms.frmZaboravioLozinku.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Reports.Reports.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.Util.Messages.resources
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.Cache
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.exe.licenses
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\RdlCompile.cache
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\RdlCompile.compiled
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\Faruk\Desktop\PeP-SeminarskiRad-130051\Aplikacija-130051\PeP\WinFormUI\obj\Debug\WinFormUI.pdb
